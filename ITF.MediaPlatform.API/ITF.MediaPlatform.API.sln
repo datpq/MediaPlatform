@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITF.MediaPlatform.API", "ITF.MediaPlatform.API\ITF.MediaPlatform.API.csproj", "{693BC11C-415E-4C11-95C8-D88B994326FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITF.MediaPlatform.API.Tests", "ITF.MediaPlatform.API.Tests\ITF.MediaPlatform.API.Tests.csproj", "{1D9A473C-54A4-44D7-8E70-22F3D8C77A0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITF.DataServices.Authentication", "ITF.DataServices.Authentication\ITF.DataServices.Authentication.csproj", "{595BF20F-4F38-4C3B-B369-C70D4CFE8859}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITF.DataServices.SDK", "ITF.DataServices.SDK\ITF.DataServices.SDK.csproj", "{F2733402-4922-4F69-90B0-ABAB40A3A669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		UAT|Any CPU = UAT|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{693BC11C-415E-4C11-95C8-D88B994326FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693BC11C-415E-4C11-95C8-D88B994326FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693BC11C-415E-4C11-95C8-D88B994326FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693BC11C-415E-4C11-95C8-D88B994326FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693BC11C-415E-4C11-95C8-D88B994326FE}.UAT|Any CPU.ActiveCfg = UAT|Any CPU
+		{693BC11C-415E-4C11-95C8-D88B994326FE}.UAT|Any CPU.Build.0 = UAT|Any CPU
+		{1D9A473C-54A4-44D7-8E70-22F3D8C77A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9A473C-54A4-44D7-8E70-22F3D8C77A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9A473C-54A4-44D7-8E70-22F3D8C77A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9A473C-54A4-44D7-8E70-22F3D8C77A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D9A473C-54A4-44D7-8E70-22F3D8C77A0F}.UAT|Any CPU.ActiveCfg = UAT|Any CPU
+		{1D9A473C-54A4-44D7-8E70-22F3D8C77A0F}.UAT|Any CPU.Build.0 = UAT|Any CPU
+		{595BF20F-4F38-4C3B-B369-C70D4CFE8859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595BF20F-4F38-4C3B-B369-C70D4CFE8859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595BF20F-4F38-4C3B-B369-C70D4CFE8859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595BF20F-4F38-4C3B-B369-C70D4CFE8859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595BF20F-4F38-4C3B-B369-C70D4CFE8859}.UAT|Any CPU.ActiveCfg = UAT|Any CPU
+		{595BF20F-4F38-4C3B-B369-C70D4CFE8859}.UAT|Any CPU.Build.0 = UAT|Any CPU
+		{F2733402-4922-4F69-90B0-ABAB40A3A669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2733402-4922-4F69-90B0-ABAB40A3A669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2733402-4922-4F69-90B0-ABAB40A3A669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2733402-4922-4F69-90B0-ABAB40A3A669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2733402-4922-4F69-90B0-ABAB40A3A669}.UAT|Any CPU.ActiveCfg = UAT|Any CPU
+		{F2733402-4922-4F69-90B0-ABAB40A3A669}.UAT|Any CPU.Build.0 = UAT|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

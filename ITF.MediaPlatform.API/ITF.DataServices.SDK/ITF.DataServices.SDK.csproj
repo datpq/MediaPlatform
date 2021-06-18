@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F2733402-4922-4F69-90B0-ABAB40A3A669}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ITF.DataServices.SDK</RootNamespace>
+    <AssemblyName>ITF.DataServices.SDK</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'UAT|AnyCPU'">
+    <OutputPath>bin\UAT\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=5.2.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.5.2.0\lib\net45\AutoMapper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.2.2.0\lib\net45-full\Ninject.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Ninject.Web.Common, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.Web.Common.3.2.3.0\lib\net45-full\Ninject.Web.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <HintPath>..\packages\NLog.4.3.11\lib\net45\NLog.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="QueryInterceptor, Version=0.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\QueryInterceptor.0.2\lib\net40\QueryInterceptor.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Caching" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TypeLite, Version=1.8.0.0, Culture=neutral, PublicKeyToken=8cd4b9c9ac23d744, processorArchitecture=MSIL">
+      <HintPath>..\packages\TypeLite.1.8.1\lib\net4\TypeLite.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="TypeLite.Net4, Version=1.8.1.0, Culture=neutral, PublicKeyToken=8cd4b9c9ac23d744, processorArchitecture=MSIL">
+      <HintPath>..\packages\TypeLite.1.8.1\lib\net4\TypeLite.Net4.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Constants.cs" />
+    <Compile Include="DataServicesAppStart.cs" />
+    <Compile Include="Data\Baseline02Context.cs" />
+    <Compile Include="Data\CmsDataRepository.cs" />
+    <Compile Include="Data\CmsDbContext.cs" />
+    <Compile Include="Data\CommonDbContext.cs" />
+    <Compile Include="Data\CupDataRepository.cs" />
+    <Compile Include="Data\CupDbContext.cs" />
+    <Compile Include="Data\DataRepository.cs" />
+    <Compile Include="Data\DavisCupDbContext.cs" />
+    <Compile Include="Data\FedCupDbContext.cs" />
+    <Compile Include="Data\ISameStructureDataRepository.cs" />
+    <Compile Include="Data\ICupDataRepository.cs" />
+    <Compile Include="Data\IDataRepository.cs" />
+    <Compile Include="Data\ItfOnlineDbContext.cs" />
+    <Compile Include="Data\IXmlDataRepository.cs" />
+    <Compile Include="Data\OlympicsXmlRepository.cs" />
+    <Compile Include="Data\WorldNetDbContext.cs" />
+    <Compile Include="Data\XmlRepository.cs" />
+    <Compile Include="Extension.cs" />
+    <Compile Include="Interfaces\ICmsService.cs" />
+    <Compile Include="Interfaces\IEventService.cs" />
+    <Compile Include="Interfaces\IInstagramService.cs" />
+    <Compile Include="Interfaces\INationService.cs" />
+    <Compile Include="Interfaces\IOlympicService.cs" />
+    <Compile Include="Interfaces\IPlayerService.cs" />
+    <Compile Include="Interfaces\IService.cs" />
+    <Compile Include="Models\Baseline02\Event.cs" />
+    <Compile Include="Models\Baseline02\EventEntry.cs" />
+    <Compile Include="Models\Baseline02\MatchDoubles.cs" />
+    <Compile Include="Models\Baseline02\MatchPlayer.cs" />
+    <Compile Include="Models\Baseline02\MatchPlayerEventInfo.cs" />
+    <Compile Include="Models\Baseline02\MatchSingles.cs" />
+    <Compile Include="Models\Baseline02\Tournament.cs" />
+    <Compile Include="Models\Baseline02\TournamentDetail.cs" />
+    <Compile Include="Models\Cms\CmsDictionary.cs" />
+    <Compile Include="Models\Cms\CmsLanguageText.cs" />
+    <Compile Include="Models\Cms\CmsPropertyData.cs" />
+    <Compile Include="Models\Cms\CmsPropertyType.cs" />
+    <Compile Include="Models\Cms\CupHeartAwardData.cs" />
+    <Compile Include="Models\Cms\CupTickets.cs" />
+    <Compile Include="Models\Cms\ITFAssetType.cs" />
+    <Compile Include="Models\Cms\ITFBaselineContent.cs" />
+    <Compile Include="Models\Cms\ITFContent.cs" />
+    <Compile Include="Models\Cms\ITFContentProvider.cs" />
+    <Compile Include="Models\Cms\ITFGallery.cs" />
+    <Compile Include="Models\Cms\ITFHtml.cs" />
+    <Compile Include="Models\Cms\ITFMediaDescription.cs" />
+    <Compile Include="Models\Cms\ITFNationBaseline.cs" />
+    <Compile Include="Models\Cms\ITFRelationships.cs" />
+    <Compile Include="Models\Cms\ITFWebScope.cs" />
+    <Compile Include="Models\Cms\UmbracoLanguage.cs" />
+    <Compile Include="Models\Cms\UmbracoNode.cs" />
+    <Compile Include="Models\Cup\EventPlayOffsDisplayOrder.cs" />
+    <Compile Include="Models\Cup\PlayerTeamCompetitionParticipationSummary.cs" />
+    <Compile Include="Models\Cup\TeamNomination.cs" />
+    <Compile Include="Models\Cup\TeamNominationPlayer.cs" />
+    <Compile Include="Models\DatabaseControl.cs" />
+    <Compile Include="Models\Event.cs" />
+    <Compile Include="Models\EventNation.cs" />
+    <Compile Include="Models\EventRound.cs" />
+    <Compile Include="Models\ICupTable.cs" />
+    <Compile Include="Models\ISameStructureTable.cs" />
+    <Compile Include="Models\ItfOnline\BaseOlympics.cs" />
+    <Compile Include="Models\ItfOnline\ODFPlayerLookup.cs" />
+    <Compile Include="Models\ItfOnline\Olympics.cs" />
+    <Compile Include="Models\ItfOnline\Paralympics.cs" />
+    <Compile Include="Models\ItfOnline\PlayerBiographyCircuits.cs" />
+    <Compile Include="Models\Match.cs" />
+    <Compile Include="Models\Media\Instagram.cs" />
+    <Compile Include="Models\ModelExtension.cs" />
+    <Compile Include="Models\Nation.cs" />
+    <Compile Include="Models\NationActivityTie.cs" />
+    <Compile Include="Models\NationComebacksFromTwoNilDownHeader.cs" />
+    <Compile Include="Models\NationComebacksFromTwoOneDownHeader.cs" />
+    <Compile Include="Models\NationGrouping.cs" />
+    <Compile Include="Models\NationHistory.cs" />
+    <Compile Include="Models\NationLongestFinalSet.cs" />
+    <Compile Include="Models\NationLongestRubberInDuration.cs" />
+    <Compile Include="Models\NationLongestTieBreakInPoints.cs" />
+    <Compile Include="Models\NationLongestTieInDurationHeader.cs" />
+    <Compile Include="Models\NationLongestWinningRunInTiesDetail.cs" />
+    <Compile Include="Models\NationLongestWinningRunInTiesHeader.cs" />
+    <Compile Include="Models\NationMostDecisiveVictoryInTieHeader.cs" />
+    <Compile Include="Models\NationMostGamesInRubber.cs" />
+    <Compile Include="Models\NationMostGamesInSet.cs" />
+    <Compile Include="Models\NationMostGamesInTieHeader.cs" />
+    <Compile Include="Models\NationPlayersAgeOldest.cs" />
+    <Compile Include="Models\NationPlayersAgeYoungest.cs" />
+    <Compile Include="Models\NationRank.cs" />
+    <Compile Include="Models\NationSquad.cs" />
+    <Compile Include="Models\Player.cs" />
+    <Compile Include="Models\PlayerBiographyBase.cs" />
+    <Compile Include="Models\Tournament.cs" />
+    <Compile Include="Models\TournamentDetail.cs" />
+    <Compile Include="Models\ViewModels\Btd\BtdNationViewModel.cs" />
+    <Compile Include="Models\ViewModels\Btd\BtdPlayerViewModel.cs" />
+    <Compile Include="Models\ViewModels\ChampionViewModel.cs" />
+    <Compile Include="Models\ViewModels\Circuits\BasePlayerProfileViewModel.cs" />
+    <Compile Include="Models\ViewModels\Circuits\DrawsheetViewModel.cs" />
+    <Compile Include="Models\ViewModels\Circuits\EventViewModel.cs" />
+    <Compile Include="Models\ViewModels\Circuits\GrandSlamViewModel.cs" />
+    <Compile Include="Models\ViewModels\Circuits\HeadToHeadMatchActivityViewModel.cs" />
+    <Compile Include="Models\ViewModels\Circuits\HeadToHeadViewModel.cs" />
+    <Compile Include="Models\ViewModels\Circuits\MatchViewModel.cs" />
+    <Compile Include="Models\ViewModels\Circuits\OlympicsPlayersViewModel.cs" />
+    <Compile Include="Models\ViewModels\Circuits\OlympicsViewModel.cs" />
+    <Compile Include="Models\ViewModels\Circuits\PlayerActivityMatchViewModel.cs" />
+    <Compile Include="Models\ViewModels\Circuits\PlayerViewModel.cs" />
+    <Compile Include="Models\ViewModels\Circuits\TournamentViewModel.cs" />
+    <Compile Include="Models\ViewModels\Cms\CupHeartAwardDataViewModel.cs" />
+    <Compile Include="Models\ViewModels\Cms\GalleryAssetViewModel.cs" />
+    <Compile Include="Models\ViewModels\Cms\HtmlViewModel.cs" />
+    <Compile Include="Models\ViewModels\Cms\ImageAssetViewModel.cs" />
+    <Compile Include="Models\ViewModels\Cms\MediaAssetDescriptionViewModel.cs" />
+    <Compile Include="Models\ViewModels\Cms\PhotosGalleryViewModel.cs" />
+    <Compile Include="Models\ViewModels\Cms\RelatedAssetViewModel.cs" />
+    <Compile Include="Models\ViewModels\Cms\SearchContentViewModel.cs" />
+    <Compile Include="Models\ViewModels\Cms\TicketsInfoViewModel.cs" />
+    <Compile Include="Models\ViewModels\Cms\TieRelatedAssetsViewModel.cs" />
+    <Compile Include="Models\ViewModels\DrawSheetViewModel.cs" />
+    <Compile Include="Models\ViewModels\EventViewModel.cs" />
+    <Compile Include="Models\ViewModels\HeadToHeadNationToNationViewModel.cs" />
+    <Compile Include="Models\ViewModels\HeadToHeadPlayerToNationViewModel.cs" />
+    <Compile Include="Models\ViewModels\HeadToHeadPlayerToPlayerViewModel.cs" />
+    <Compile Include="Models\ViewModels\LiveBlog\Blog.cs" />
+    <Compile Include="Models\ViewModels\LiveBlog\Data.cs" />
+    <Compile Include="Models\ViewModels\LiveBlog\Headline.cs" />
+    <Compile Include="Models\ViewModels\LiveBlog\LiveBlogDataViewModel.cs" />
+    <Compile Include="Models\ViewModels\MatchViewModel.cs" />
+    <Compile Include="Models\NationTranslated.cs" />
+    <Compile Include="Models\PlayerActivityMatch.cs" />
+    <Compile Include="Models\PlayerBiography.cs" />
+    <Compile Include="Models\PlayerExternal.cs" />
+    <Compile Include="Models\Tie.cs" />
+    <Compile Include="Models\ViewModels\NationActivityTieViewModel.cs" />
+    <Compile Include="Models\ViewModels\NationAllTimeRecordsViewModel.cs" />
+    <Compile Include="Models\ViewModels\NationPlayersWinLossRecords.cs" />
+    <Compile Include="Models\ViewModels\NationProfileWebViewModel.cs" />
+    <Compile Include="Models\ViewModels\NationRankingViewModel.cs" />
+    <Compile Include="Models\ViewModels\NationsGroupViewModel.cs" />
+    <Compile Include="Models\ViewModels\NationStatsRecordsViewModel.cs" />
+    <Compile Include="Models\ViewModels\NationViewModel.cs" />
+    <Compile Include="Models\ViewModels\PlayerActivityViewModel.cs" />
+    <Compile Include="Models\ViewModels\PlayerViewModel.cs" />
+    <Compile Include="Models\ViewModels\RoundRobinEventViewModel.cs" />
+    <Compile Include="Models\ViewModels\RoundRobinNominationViewModel.cs" />
+    <Compile Include="Models\ViewModels\RoundViewModel.cs" />
+    <Compile Include="Models\ViewModels\TieDetailViewModel.cs" />
+    <Compile Include="Models\ViewModels\TieDrawViewModel.cs" />
+    <Compile Include="Models\ViewModels\TieNominationViewModel.cs" />
+    <Compile Include="Models\ViewModels\TieResultsWebViewModel.cs" />
+    <Compile Include="Models\ViewModels\TieViewModel.cs" />
+    <Compile Include="Models\ViewModels\TournamentViewModel.cs" />
+    <Compile Include="Models\WorldNet\Baseline360Export.cs" />
+    <Compile Include="Models\Xml\LatestNation.cs" />
+    <Compile Include="Models\Xml\LatestPlayer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\BaseService.cs" />
+    <Compile Include="Services\CmsService.cs" />
+    <Compile Include="Services\CupService.cs" />
+    <Compile Include="Services\EventService.cs" />
+    <Compile Include="Services\InstagramService.cs" />
+    <Compile Include="Services\NationService.cs" />
+    <Compile Include="Services\OlympicService.cs" />
+    <Compile Include="Services\PlayerService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Scripts\Manager.ttinclude" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Scripts\TypeLite.Net4.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>TypeLite.Net4.d.ts</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="Scripts\TypeLite.Net4.d.ts">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TypeLite.Net4.tt</DependentUpon>
+    </TypeScriptCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ITF.DataServices.Authentication\ITF.DataServices.Authentication.csproj">
+      <Project>{595bf20f-4f38-4c3b-b369-c70d4cfe8859}</Project>
+      <Name>ITF.DataServices.Authentication</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Players>
+  <Player GivenName="Juan Martin" FamilyName="DEL POTRO" CountryCode="ARG" Gender="M" Id="800247437" ITFid="100036002" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Federico" FamilyName="DELBONIS" CountryCode="ARG" Gender="M" Id="800273338" ITFid="100087798" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Juan  " FamilyName="MONACO" CountryCode="ARG" Gender="M" Id="800223763" ITFid="100003032" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Guido" FamilyName="PELLA" CountryCode="ARG" Gender="M" Id="800272361" ITFid="100086039" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Maximo" FamilyName="GONZALEZ" CountryCode="ARG" Gender="M" Id="800217608" ITFid="10026826" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Guillermo" FamilyName="DURAN" CountryCode="ARG" Gender="M" Id="800255041" ITFid="100052677" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Samantha" FamilyName="STOSUR" CountryCode="AUS" Gender="F" Id="800207432" ITFid="35011171" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Daria" FamilyName="GAVRILOVA" CountryCode="AUS" Gender="F" Id="800289111" ITFid="100077509" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="John " FamilyName="MILLMAN" CountryCode="AUS" Gender="M" Id="800260628" ITFid="100060229" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Thanasi" FamilyName="KOKKINAKIS" CountryCode="AUS" Gender="M" Id="800158756" ITFid="100131285" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Chris" FamilyName="GUCCIONE" CountryCode="AUS" Gender="M" Id="800223064" ITFid="100002558" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="John " FamilyName="PEERS" CountryCode="AUS" Gender="M" Id="800265200" ITFid="100070180" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Jordan" FamilyName="THOMPSON" CountryCode="AUS" Gender="M" Id="800158036" ITFid="100114044" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Oliver" FamilyName="MARACH" CountryCode="AUT" Gender="M" Id="800202844" ITFid="10021024" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Alexander" FamilyName="PEYA" CountryCode="AUT" Gender="M" Id="800191986" ITFid="10021521" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Darian" FamilyName="KING" CountryCode="BAR" Gender="M" Id="800277989" ITFid="100099695" Singles="TRI" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Yanina" FamilyName="WICKMAYER" CountryCode="BEL" Gender="F" Id="800246020" ITFid="100041250" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Kirsten" FamilyName="FLIPKENS" CountryCode="BEL" Gender="F" Id="800215186" ITFid="35013263" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="David" FamilyName="GOFFIN" CountryCode="BEL" Gender="M" Id="800270803" ITFid="100080283" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Damir" FamilyName="DZUMHUR" CountryCode="BIH" Gender="M" Id="800155683" ITFid="100130758" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Mirza" FamilyName="BASIC" CountryCode="BIH" Gender="M" Id="800277348" ITFid="100097179" Singles="TRI" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Aliaksandr" FamilyName="BURY" CountryCode="BLR" Gender="M" Id="800252890" ITFid="100081563" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Max" FamilyName="MIRNYI" CountryCode="BLR" Gender="M" Id="800187278" ITFid="10009359" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Paula Cristina" FamilyName="GONCALVES" CountryCode="BRA" Gender="F" Id="800274085" ITFid="100089517" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Teliana" FamilyName="PEREIRA" CountryCode="BRA" Gender="F" Id="800237095" ITFid="100029682" Singles="IP" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Thomaz" FamilyName="BELLUCCI" CountryCode="BRA" Gender="M" Id="800251494" ITFid="100052372" Singles="DA" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Rogerio" FamilyName="DUTRA SILVA" CountryCode="BRA" Gender="M" Id="800226744" ITFid="100007498" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Marcelo" FamilyName="MELO" CountryCode="BRA" Gender="M" Id="800218042" ITFid="30023528" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Bruno" FamilyName="SOARES" CountryCode="BRA" Gender="M" Id="800213125" ITFid="10023185" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Andre" FamilyName="SA " CountryCode="BRA" Gender="M" Id="800184371" ITFid="10009730" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Tsvetana" FamilyName="PIRONKOVA" CountryCode="BUL" Gender="F" Id="800233267" ITFid="100018474" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Grigor" FamilyName="DIMITROV" CountryCode="BUL" Gender="M" Id="800263094" ITFid="100063887" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Eugenie" FamilyName="BOUCHARD" CountryCode="CAN" Gender="F" Id="800288351" ITFid="100116653" Singles="DA" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Gabriela" FamilyName="DABROWSKI" CountryCode="CAN" Gender="F" Id="800274586" ITFid="100081189" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Vasek" FamilyName="POSPISIL" CountryCode="CAN" Gender="M" Id="800270768" ITFid="100084305" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Daniel" FamilyName="NESTOR" CountryCode="CAN" Gender="M" Id="800180515" ITFid="10000987" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Julio" FamilyName="PERALTA" CountryCode="CHI" Gender="M" Id="800209985" ITFid="10024099" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Hans" FamilyName="PODLIPNIK-CASTILLO" CountryCode="CHI" Gender="M" Id="800246678" ITFid="100042411" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Saisai" FamilyName="ZHENG" CountryCode="CHN" Gender="F" Id="800157837" ITFid="100132265" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Yi-fan" FamilyName="XU" CountryCode="CHN" Gender="F" Id="800234812" ITFid="100021406" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Shuai" FamilyName="PENG" CountryCode="CHN" Gender="F" Id="800219055" ITFid="100011008" Singles="DA" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Shuai" FamilyName="ZHENG" CountryCode="CHN" Gender="F" Id="800242696" ITFid="100035555" Singles="DA" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Qiang" FamilyName="WANG" CountryCode="CHN" Gender="F" Id="800279562" ITFid="100102045" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Juan-Sebastian" FamilyName="CABAL" CountryCode="COL" Gender="M" Id="800234134" ITFid="100019101" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Robert" FamilyName="FARAH" CountryCode="COL" Gender="M" Id="800238642" ITFid="100031388" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Mariana" FamilyName="DUQUE-MARINO" CountryCode="COL" Gender="F" Id="800261640" ITFid="100060652" Singles="IP" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Marin" FamilyName="CILIC" CountryCode="CRO" Gender="M" Id="800233275" ITFid="100018489" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Borna" FamilyName="CORIC" CountryCode="CRO" Gender="M" Id="800329554" ITFid="100165708" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Marin" FamilyName="DRAGANJA" CountryCode="CRO" Gender="M" Id="800277883" ITFid="100099722" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Ana" FamilyName="KONJUH" CountryCode="CRO" Gender="F" Id="800331538" ITFid="100167692" Singles="IP" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Andrea" FamilyName="HLAVACKKOVA" CountryCode="CZE" Gender="F" Id="800217402" ITFid="35013835" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Lucie" FamilyName="HRADECKA" CountryCode="CZE" Gender="F" Id="800220320" ITFid="100000470" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Lucie" FamilyName="SAFAROVA" CountryCode="CZE" Gender="F" Id="800225244" ITFid="100004102" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Petra" FamilyName="KVITOVA" CountryCode="CZE" Gender="F" Id="800266056" ITFid="100075246" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Barbora" FamilyName="STRYCOVA" CountryCode="CZE" Gender="F" Id="800215993" ITFid="35013524" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Lukas" FamilyName="ROSOL" CountryCode="CZE" Gender="M" Id="800227035" ITFid="100000370" Singles="DA" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Radek" FamilyName="STEPANEK" CountryCode="CZE" Gender="M" Id="800184949" ITFid="10010914" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Caroline" FamilyName="WOZNIAKI" CountryCode="DEN" Gender="F" Id="800254714" ITFid="100052330" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Victor" FamilyName="ESTRELLA BURGOS" CountryCode="DOM" Gender="M" Id="800202586" ITFid="10022549" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Garbine" FamilyName="MUGURUZA" CountryCode="ESP" Gender="F" Id="800157531" ITFid="100103866" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Carla" FamilyName="SUAREZ-NAVARRO" CountryCode="ESP" Gender="F" Id="800242792" ITFid="100036135" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Anabel" FamilyName="MEDINA-GARRIGUES" CountryCode="ESP" Gender="F" Id="800206519" ITFid="20012693" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Arantxa" FamilyName="PARRA-SANTONJA" CountryCode="ESP" Gender="F" Id="800213922" ITFid="20011777" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Rafael" FamilyName="NADAL" CountryCode="ESP" Gender="M" Id="800226907" ITFid="100007935" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="David" FamilyName="FERRER" CountryCode="ESP" Gender="M" Id="800205185" ITFid="10019850" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Roberto" FamilyName="BAUTISTA AGUT" CountryCode="ESP" Gender="M" Id="800237294" ITFid="100025356" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Albert" FamilyName="RAMOS-VINOLAS" CountryCode="ESP" Gender="M" Id="800247491" ITFid="100041694" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Marc" FamilyName="LOPEZ" CountryCode="ESP" Gender="M" Id="800205426" ITFid="1002036" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Kristina" FamilyName="MLADENOVIC" CountryCode="FRA" Gender="F" Id="800279647" ITFid="100090843" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Caroline" FamilyName="GARCIA" CountryCode="FRA" Gender="F" Id="800294820" ITFid="100114418" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Alize" FamilyName="CORNET" CountryCode="FRA" Gender="F" Id="800246767" ITFid="100042468" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Jo-Wilfried" FamilyName="TSONGA" CountryCode="FRA" Gender="M" Id="800223152" ITFid="100002668" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Gael" FamilyName="MONFILS" CountryCode="FRA" Gender="M" Id="800235018" ITFid="100022408" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Gilles" FamilyName="SIMON" CountryCode="FRA" Gender="M" Id="800218368" ITFid="30023245" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Pierre-Hugues" FamilyName="HERBERT" CountryCode="FRA" Gender="M" Id="800278284" ITFid="100098403" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Nicolas" FamilyName="MAHUT" CountryCode="FRA" Gender="M" Id="800210679" ITFid="30019812" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Benoit" FamilyName="PAIRE" CountryCode="FRA" Gender="M" Id="800278281" ITFid="100100099" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Johanna" FamilyName="KONTA" CountryCode="GBR" Gender="F" Id="800256993" ITFid="100056016" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Heather " FamilyName="WATSON" CountryCode="GBR" Gender="F" Id="800273987" ITFid="100079698" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Andy" FamilyName="MURRAY" CountryCode="GBR" Gender="M" Id="800233481" ITFid="100013005" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Kyle" FamilyName="EDMUND" CountryCode="GBR" Gender="M" Id="800320034" ITFid="100156188" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Jamie" FamilyName="MURRAY" CountryCode="GBR" Gender="M" Id="800227576" ITFid="100013004" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Colin" FamilyName="FLEMING" CountryCode="GBR" Gender="M" Id="800227515" ITFid="100011117" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Dominic" FamilyName="INGLOT" CountryCode="GBR" Gender="M" Id="800230273" ITFid="100014365" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Nikoloz" FamilyName="BASILASHVILI" CountryCode="GEO" Gender="M" Id="800284900" ITFid="100108822" Singles="IP" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Angelique" FamilyName="KERBER" CountryCode="GER" Gender="F" Id="800227588" ITFid="100014203" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Andrea" FamilyName="PETKOVIC" CountryCode="GER" Gender="F" Id="800222809" ITFid="100002346" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Laura" FamilyName="SIEGEMUND" CountryCode="GER" Gender="F" Id="800231009" ITFid="100014268" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Anna-Lena" FamilyName="GROENEFELD" CountryCode="GER" Gender="F" Id="800216668" ITFid="35013658" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Annika" FamilyName="BECK" CountryCode="GER" Gender="F" Id="800295954" ITFid="100109426" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Philipp" FamilyName="KOHLSCHREIBER" CountryCode="GER" Gender="M" Id="800211560" ITFid="100000009" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Dustin" FamilyName="BROWN" CountryCode="GER" Gender="M" Id="800217698" ITFid="30022870" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Jan Lennard" FamilyName="STRUFF" CountryCode="GER" Gender="M" Id="800270436" ITFid="100084200" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Timea" FamilyName="BABOS" CountryCode="HUN" Gender="F" Id="800283374" ITFid="100148132" Singles="DA" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Reka-Luca" FamilyName="JANI" CountryCode="HUN" Gender="F" Id="800272994" ITFid="100086786" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Sania" FamilyName="MIRZA" CountryCode="IND" Gender="F" Id="800219356" ITFid="35014435" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Prarthana" FamilyName="THOMBARE" CountryCode="IND" Gender="F" Id="800295752" ITFid="100128344" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Rohan" FamilyName="BOPANNA" CountryCode="IND" Gender="M" Id="800204833" ITFid="10024192" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Leander" FamilyName="PAES" CountryCode="IND" Gender="M" Id="800180151" ITFid="10001856" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Dudi" FamilyName="SELA" CountryCode="ISR" Gender="M" Id="800218455" ITFid="30023230" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Roberta" FamilyName="VINCI" CountryCode="ITA" Gender="F" Id="800205963" ITFid="35011866" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Sara" FamilyName="ERRANI" CountryCode="ITA" Gender="F" Id="800229227" ITFid="100013605" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Karin" FamilyName="KNAPP" CountryCode="ITA" Gender="F" Id="800245128" ITFid="100040639" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Fabio" FamilyName="FOGNINI" CountryCode="ITA" Gender="M" Id="800235283" ITFid="100022655" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Andreas" FamilyName="SEPPI" CountryCode="ITA" Gender="M" Id="800216128" ITFid="10026999" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Paolo" FamilyName="LORENZI" CountryCode="ITA" Gender="M" Id="800206645" ITFid="10021568" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Thomas" FamilyName="FABBIANO" CountryCode="ITA" Gender="M" Id="800252652" ITFid="100049010" Singles="IP" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Misaki" FamilyName="DOI" CountryCode="JPN" Gender="F" Id="800275736" ITFid="100081799" Singles="DA" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Eri" FamilyName="HOZUMI" CountryCode="JPN" Gender="F" Id="800120317" ITFid="100129312" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Nao" FamilyName="HIBINO" CountryCode="JPN" Gender="F" Id="800158493" ITFid="100128361" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Kei" FamilyName="NISHIKORI" CountryCode="JPN" Gender="M" Id="800237231" ITFid="100029697" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Yuichi" FamilyName="SUGITA" CountryCode="JPN" Gender="M" Id="800253101" ITFid="100049443" Singles="IP" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Taro" FamilyName="DANIEL" CountryCode="JPN" Gender="M" Id="800296890" ITFid="100130786" Singles="IP" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Yaroslava" FamilyName="SHVEDOVA" CountryCode="KAZ" Gender="F" Id="800225033" ITFid="100018246" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Galina" FamilyName="VOSKOBOEVA" CountryCode="KAZ" Gender="F" Id="800211870" ITFid="35012221" Singles="DA" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Jelena" FamilyName="OSTAPENKO" CountryCode="LAT" Gender="F" Id="800322660" ITFid="100158814" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Stephanie" FamilyName="VOGT" CountryCode="LIE" Gender="F" Id="800259355" ITFid="100058643" Singles="TRI" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Ricardas" FamilyName="BERANKIS" CountryCode="LTU" Gender="M" Id="800265980" ITFid="100077805" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Gilles" FamilyName="MULLER" CountryCode="LUX" Gender="M" Id="800212727" ITFid="30019411" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Radu" FamilyName="ALBOT" CountryCode="MDA" Gender="M" Id="800257457" ITFid="100041460" Singles="IP" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Santiago " FamilyName="GONZALEZ" CountryCode="MEX" Gender="M" Id="800209804" ITFid="30020004" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Miguel Angel" FamilyName="REYES VARELA" CountryCode="MEX" Gender="M" Id="800240597" ITFid="100013119" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Danka" FamilyName="KOVINIC" CountryCode="MNE" Gender="F" Id="800304099" ITFid="100140256" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Kiki" FamilyName="BERTENS" CountryCode="NED" Gender="F" Id="800282729" ITFid="100094532" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Robin" FamilyName="HAASE" CountryCode="NED" Gender="M" Id="800232165" ITFid="100017876" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Jean-Julien" FamilyName="ROJER" CountryCode="NED" Gender="M" Id="800195277" ITFid="30013607" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Marcus" FamilyName="DANIELL" CountryCode="NZL" Gender="M" Id="800266291" ITFid="100076740" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Michael" FamilyName="VENUS" CountryCode="NZL" Gender="M" Id="800227522" ITFid="100011028" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Veronica" FamilyName="CEPEDE ROYG" CountryCode="PAR" Gender="F" Id="800278222" ITFid="100068180" Singles="TRI" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Agnieszka" FamilyName="RADWANKSA" CountryCode="POL" Gender="F" Id="800249097" ITFid="100044358" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Magda" FamilyName="LINETTE" CountryCode="POL" Gender="F" Id="800280420" ITFid="100102954" Singles="IP" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Klaudia" FamilyName="JANS-IGNACIK" CountryCode="POL" Gender="F" Id="800218081" ITFid="20013432" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Paula" FamilyName="KANIA" CountryCode="POL" Gender="F" Id="800280395" ITFid="100085625" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Jerzy" FamilyName="JANOWICZ" CountryCode="POL" Gender="M" Id="800271804" ITFid="100105737" Singles="IP" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Lukasz" FamilyName="KUBOT" CountryCode="POL" Gender="M" Id="800208588" ITFid="30019034" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Marcin" FamilyName="MATKOWSKI" CountryCode="POL" Gender="M" Id="800203464" ITFid="10022765" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Joao" FamilyName="SOUSA" CountryCode="POR" Gender="M" Id="800261393" ITFid="100061965" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Gastao" FamilyName="ELIAS" CountryCode="POR" Gender="M" Id="800261391" ITFid="100061961" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Monica" FamilyName="PUIG" CountryCode="PUR" Gender="F" Id="800296503" ITFid="100128415" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Monica" FamilyName="NICULESCU" CountryCode="ROU" Gender="F" Id="800236524" ITFid="100027876" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Irina-Camelia" FamilyName="BEGU" CountryCode="ROU" Gender="F" Id="800266692" ITFid="100072466" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Florin" FamilyName="MERGEA" CountryCode="ROU" Gender="M" Id="800221619" ITFid="100001450" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Horia" FamilyName="TECAU" CountryCode="ROU" Gender="M" Id="800225216" ITFid="100003797" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Ioana Raluca" FamilyName="OLARU" CountryCode="ROU" Gender="F" Id="800252548" ITFid="100048678" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Andreea" FamilyName="MITU" CountryCode="ROU" Gender="F" Id="800278751" ITFid="100093408" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Elena" FamilyName="VESNINA" CountryCode="RUS" Gender="F" Id="800222820" ITFid="100002315" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Ekaterina" FamilyName="MAKAROVA" CountryCode="RUS" Gender="F" Id="800236501" ITFid="100027205" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Svetlana" FamilyName="KUZNETSOVA" CountryCode="RUS" Gender="F" Id="800216697" ITFid="35013668" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Anastasia" FamilyName="PAVLYUCHENKOVA" CountryCode="RUS" Gender="F" Id="800257458" ITFid="100056619" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Daria" FamilyName="KASATKINA" CountryCode="RUS" Gender="F" Id="800332463" ITFid="100168617" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Andrey" FamilyName="KUZNETSOV" CountryCode="RUS" Gender="M" Id="800276979" ITFid="100086441" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Evgeny" FamilyName="DONSKOY" CountryCode="RUS" Gender="M" Id="800266401" ITFid="100067754" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Teymuraz" FamilyName="GABASHVILI" CountryCode="RUS" Gender="M" Id="800222136" ITFid="30022507" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Polona" FamilyName="HERCOG" CountryCode="SLO" Gender="F" Id="800257514" ITFid="100056977" Singles="IP" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Ana" FamilyName="IVANOVIC" CountryCode="SRB" Gender="F" Id="800233480" ITFid="100018598" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Jelena" FamilyName="JANKOVIC" CountryCode="SRB" Gender="F" Id="800217701" ITFid="35013922" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Aleksandra" FamilyName="KRUNIC" CountryCode="SRB" Gender="F" Id="800289247" ITFid="100077568" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Novak" FamilyName="DJOKOVIC" CountryCode="SRB" Gender="M" Id="800225217" ITFid="100004087" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Viktor" FamilyName="TROICKI" CountryCode="SRB" Gender="M" Id="800237725" ITFid="100018768" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Nenad" FamilyName="ZIMONJIC" CountryCode="SRB" Gender="M" Id="800186600" ITFid="10006690" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Martina" FamilyName="HINGIS" CountryCode="SUI" Gender="F" Id="800184945" ITFid="20004552" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Timea" FamilyName="BACSINSZKY" CountryCode="SUI" Gender="F" Id="800237401" ITFid="100030344" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Stan" FamilyName="WAWRINKA" CountryCode="SUI" Gender="M" Id="800220533" ITFid="100002840" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Dominika" FamilyName="CIBULKOVA" CountryCode="SVK" Gender="F" Id="800241709" ITFid="100034817" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Anna Karolina" FamilyName="SCHMIEDLOVA" CountryCode="SVK" Gender="F" Id="800351480" ITFid="100187632" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Andrej" FamilyName="MARTIN" CountryCode="SVK" Gender="M" Id="800252366" ITFid="100048981" Singles="IP" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Igor" FamilyName="ZELENAY" CountryCode="SVK" Gender="M" Id="800203293" ITFid="30016774" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Johanna" FamilyName="LARSSON" CountryCode="SWE" Gender="F" Id="800249346" ITFid="100040519" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Sanchai" FamilyName="RATIWATANA" CountryCode="THA" Gender="M" Id="800204421" ITFid="10024443" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Sonchat" FamilyName="RATIWATANA" CountryCode="THA" Gender="M" Id="800200502" ITFid="10024449" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Yung Jan" FamilyName="CHAN" CountryCode="TPE" Gender="F" Id="800235515" ITFid="100022860" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Hao-Ching" FamilyName="CHAN" CountryCode="TPE" Gender="F" Id="800284389" ITFid="100107422" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Chia-Jung" FamilyName="CHUANG" CountryCode="TPE" Gender="F" Id="800210830" ITFid="35012056" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Su-Wei" FamilyName="HSIEH" CountryCode="TPE" Gender="F" Id="800216062" ITFid="35013557" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Yen-Hsun" FamilyName="LU" CountryCode="TPE" Gender="M" Id="800209174" ITFid="30019224" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Ons" FamilyName="JABEUR" CountryCode="TUN" Gender="F" Id="800292858" ITFid="100123615" Singles="IP" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Malek" FamilyName="JAZIRI" CountryCode="TUN" Gender="M" Id="800216886" ITFid="30022536" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Cagla" FamilyName="BUYUKAKCAY" CountryCode="TUR" Gender="F" Id="800246765" ITFid="100042508" Singles="IP" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Elina" FamilyName="SVITOLINA" CountryCode="UKR" Gender="F" Id="800297028" ITFid="100131002" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Olga" FamilyName="SAVCHUK" CountryCode="UKR" Gender="F" Id="800228714" ITFid="100002518" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Lyudmyla" FamilyName="KICHENOK" CountryCode="UKR" Gender="F" Id="800274590" ITFid="100090009" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Nadiia" FamilyName="KICHENOK" CountryCode="UKR" Gender="F" Id="800274443" ITFid="100090007" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Lesia" FamilyName="TSURENKO" CountryCode="UKR" Gender="F" Id="800269685" ITFid="100069813" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Illya" FamilyName="MARCHENKO" CountryCode="UKR" Gender="M" Id="800249779" ITFid="100046207" Singles="DA" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Denys" FamilyName="MOLCHANOV" CountryCode="UKR" Gender="M" Id="800236525" ITFid="100027888" Singles="" Doubles="IP" MixedDoubles="" Year="2016" />
+  <Player GivenName="Pablo" FamilyName="CUEVAS" CountryCode="URU" Gender="M" Id="800223764" ITFid="100003023" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Bethanie" FamilyName="MATTEK-SANDS" CountryCode="USA" Gender="F" Id="800214796" ITFid="35013121" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="CoCo" FamilyName="VANDEWEGHE" CountryCode="USA" Gender="F" Id="800272594" ITFid="100086064" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Serena" FamilyName="WILLIAMS" CountryCode="USA" Gender="F" Id="800205424" ITFid="20007765" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Venus" FamilyName="WILLIAMS" CountryCode="USA" Gender="F" Id="800194969" ITFid="20005009" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Madison" FamilyName="KEYS" CountryCode="USA" Gender="F" Id="800297667" ITFid="100133824" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Sloane" FamilyName="STEPHENS" CountryCode="USA" Gender="F" Id="800277557" ITFid="100099400" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Jack" FamilyName="SOCK" CountryCode="USA" Gender="M" Id="800302925" ITFid="100139082" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Steve" FamilyName="JOHNSON" CountryCode="USA" Gender="M" Id="800267548" ITFid="100079731" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Denis" FamilyName="KUDLA" CountryCode="USA" Gender="M" Id="800277559" ITFid="100099373" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+  <Player GivenName="Brian" FamilyName="BAKER" CountryCode="USA" Gender="M" Id="800224574" ITFid="100003655" Singles="DA" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Rajeev" FamilyName="RAM" CountryCode="USA" Gender="M" Id="800215564" ITFid="30022039" Singles="" Doubles="DA" MixedDoubles="" Year="2016" />
+  <Player GivenName="Denis" FamilyName="ISTOMIN" CountryCode="UZB" Gender="M" Id="800221153" ITFid="30022206" Singles="DA" Doubles="" MixedDoubles="" Year="2016" />
+</Players>

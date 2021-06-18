@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Players>
+  <Player GivenName="Ezequiel" FamilyName="CASCO" CountryCode="ARG" Gender="M" Id="800294031" ITFid="100112396" Singles="DA" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Gustavo" FamilyName="FERNANDEZ" CountryCode="ARG" Gender="M" Id="800282122" ITFid="100112313" Singles="PPA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Agustin" FamilyName="LEDESMA" CountryCode="ARG" Gender="M" Id="800284098" ITFid="100112395" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Dylan" FamilyName="ALCOTT" CountryCode="AUS" Gender="M" Id="800257258" ITFid="100056481" Singles="" Doubles="" QuadSingles="DA" QuadDoubles="DA" Year="2016" />
+  <Player GivenName="Sarah" FamilyName="CALATI" CountryCode="AUS" Gender="F" Id="800365257" ITFid="100201409" Singles="IPC" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Heath" FamilyName="DAVIDSON" CountryCode="AUS" Gender="M" Id="800255663" ITFid="100053752" Singles="" Doubles="" QuadSingles="BIP" QuadDoubles="DA" Year="2016" />
+  <Player GivenName="Adam" FamilyName="KELLERMAN" CountryCode="AUS" Gender="M" Id="800288090" ITFid="100119202" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Ben" FamilyName="WEEKES" CountryCode="AUS" Gender="M" Id="800222830" ITFid="100010810" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Nico" FamilyName="LANGMANN" CountryCode="AUT" Gender="M" Id="800356932" ITFid="100193084" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Martin" FamilyName="LEGNER" CountryCode="AUT" Gender="M" Id="800182241" ITFid="50000047" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Mike" FamilyName="DENAYER" CountryCode="BEL" Gender="M" Id="800224756" ITFid="50001529" Singles="DWR" Doubles="DWR" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Joachim" FamilyName="GERARD" CountryCode="BEL" Gender="M" Id="800230303" ITFid="100015809" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Rejane" FamilyName="CANDIDA" CountryCode="BRA" Gender="F" Id="800247328" ITFid="100057207" Singles="BIP" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Natalia" FamilyName="MAYARA" CountryCode="BRA" Gender="F" Id="800291814" ITFid="100122508" Singles="PPA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Rafael" FamilyName="MEDEIROS" CountryCode="BRA" Gender="M" Id="800281877" ITFid="100105678" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Rodrigo" FamilyName="OLIVEIRA" CountryCode="BRA" Gender="M" Id="800314271" ITFid="100150428" Singles="" Doubles="" QuadSingles="BIP" QuadDoubles="DA" Year="2016" />
+  <Player GivenName="Mauricio" FamilyName="POMME" CountryCode="BRA" Gender="M" Id="800223437" ITFid="50001492" Singles="DWR" Doubles="DWR" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Daniel" FamilyName="RODRIGUES" CountryCode="BRA" Gender="M" Id="800287825" ITFid="100115956" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Carlos" FamilyName="SANTOS" CountryCode="BRA" Gender="M" Id="800337411" ITFid="100173565" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Ymanitu" FamilyName="SILVA" CountryCode="BRA" Gender="M" Id="800335617" ITFid="100171771" Singles="" Doubles="" QuadSingles="BIP" QuadDoubles="DA" Year="2016" />
+  <Player GivenName="Philippe" FamilyName="BEDARD" CountryCode="CAN" Gender="M" Id="800316099" ITFid="100152256" Singles="BIP" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Macarena" FamilyName="CABRILLANA" CountryCode="CHI" Gender="F" Id="800312484" ITFid="100148641" Singles="BIP" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Francisca" FamilyName="MARDONES" CountryCode="CHI" Gender="F" Id="800278605" ITFid="100100247" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Robinson" FamilyName="MENDEZ" CountryCode="CHI" Gender="M" Id="800228143" ITFid="50001386" Singles="BIP" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Hui Min" FamilyName="HUANG" CountryCode="CHN" Gender="F" Id="800300392" ITFid="100136549" Singles="BIP" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Dong" FamilyName="SHUNJIANG" CountryCode="CHN" Gender="M" Id="800380921" ITFid="100217073" Singles="DWR" Doubles="DWR" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Zujun" FamilyName="WEI" CountryCode="CHN" Gender="M" Id="800349754" ITFid="100185906" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Zhenzhen" FamilyName="ZHU" CountryCode="CHN" Gender="F" Id="800289129" ITFid="100118836" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Angelica" FamilyName="BERNAL" CountryCode="COL" Gender="F" Id="800291614" ITFid="100128971" Singles="BIP" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Eliecer" FamilyName="OQUENDO BARRIOS" CountryCode="COL" Gender="M" Id="800265709" ITFid="30002617" Singles="BIP" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Daniel" FamilyName="CAVERZASCHI" CountryCode="ESP" Gender="M" Id="800293672" ITFid="100125089" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Martin" FamilyName="DE LA PUENTE" CountryCode="ESP" Gender="M" Id="800396742" ITFid="100232894" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Lola" FamilyName="OCHOA" CountryCode="ESP" Gender="F" Id="800202506" ITFid="55000280" Singles="BIP" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Francesc" FamilyName="TUR" CountryCode="ESP" Gender="M" Id="800222825" ITFid="50001469" Singles="DA" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Frederic" FamilyName="CATTANEO" CountryCode="FRA" Gender="M" Id="800233158" ITFid="100046077" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Charlotte" FamilyName="FAMIN" CountryCode="FRA" Gender="F" Id="800395263" ITFid="100231415" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Stephane" FamilyName="HOUDET" CountryCode="FRA" Gender="M" Id="800274362" ITFid="100089994" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Michael" FamilyName="JEREMIASZ" CountryCode="FRA" Gender="M" Id="800229076" ITFid="100013548" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Emmanuelle" FamilyName="MORCH" CountryCode="FRA" Gender="F" Id="800396741" ITFid="100232893" Singles="BIP" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Nicolas" FamilyName="PEIFER" CountryCode="FRA" Gender="M" Id="800249103" ITFid="100044779" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Jamie" FamilyName="BURDEKIN" CountryCode="GBR" Gender="M" Id="800244321" ITFid="100038360" Singles="" Doubles="" QuadSingles="DA" QuadDoubles="DA" Year="2016" />
+  <Player GivenName="Antony" FamilyName="COTTERILL" CountryCode="GBR" Gender="M" Id="800271057" ITFid="100081587" Singles="" Doubles="" QuadSingles="DA" QuadDoubles="" Year="2016" />
+  <Player GivenName="Alfie" FamilyName="HEWETT" CountryCode="GBR" Gender="M" Id="800305047" ITFid="100141204" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Louise" FamilyName="HUNT" CountryCode="GBR" Gender="F" Id="800264497" ITFid="100061128" Singles="DA" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Andy" FamilyName="LAPTHORNE" CountryCode="GBR" Gender="M" Id="800277502" ITFid="100099413" Singles="" Doubles="" QuadSingles="DA" QuadDoubles="DA" Year="2016" />
+  <Player GivenName="Marc" FamilyName="MCCARROLL" CountryCode="GBR" Gender="M" Id="800277503" ITFid="100099411" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="David" FamilyName="PHILLIPSON" CountryCode="GBR" Gender="M" Id="800261069" ITFid="100061160" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Gordon" FamilyName="REID" CountryCode="GBR" Gender="M" Id="800274782" ITFid="100090322" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Lucy" FamilyName="SHUKER" CountryCode="GBR" Gender="F" Id="800250970" ITFid="100046979" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Jordanne" FamilyName="WHILEY" CountryCode="GBR" Gender="F" Id="800267095" ITFid="100077771" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Katharina" FamilyName="KRUGER" CountryCode="GER" Gender="F" Id="800232576" ITFid="100018052" Singles="DA" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Stefanos" FamilyName="DIAMANTIS" CountryCode="GRE" Gender="M" Id="800364998" ITFid="100201150" Singles="BIP" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Roland" FamilyName="NEMETH" CountryCode="HUN" Gender="M" Id="800443473" ITFid="100273652" Singles="BIP" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Adam" FamilyName="BERDICHEVSKY" CountryCode="ISR" Gender="M" Id="800415078" ITFid="100251230" Singles="DA" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Itay" FamilyName="ERENLIB" CountryCode="ISR" Gender="M" Id="800425350" ITFid="100258518" Singles="" Doubles="" QuadSingles="DA" QuadDoubles="DA" Year="2016" />
+  <Player GivenName="Shraga" FamilyName="WEINBERG" CountryCode="ISR" Gender="M" Id="800183348" ITFid="60000089" Singles="" Doubles="" QuadSingles="DA" QuadDoubles="DA" Year="2016" />
+  <Player GivenName="Alberto" FamilyName="CORRADI" CountryCode="ITA" Gender="M" Id="800216288" ITFid="50001221" Singles="" Doubles="" QuadSingles="DA" QuadDoubles="" Year="2016" />
+  <Player GivenName="Marianna" FamilyName="LAURO" CountryCode="ITA" Gender="F" Id="800263132" ITFid="100063435" Singles="DA" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Fabian" FamilyName="MAZZEI" CountryCode="ITA" Gender="M" Id="800208257" ITFid="50000964" Singles="DA" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Kanako" FamilyName="DOMORI" CountryCode="JPN" Gender="F" Id="800204600" ITFid="100030652" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Yui" FamilyName="KAMIJI" CountryCode="JPN" Gender="F" Id="800282822" ITFid="100106083" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Shota" FamilyName="KAWANO" CountryCode="JPN" Gender="M" Id="800278704" ITFid="100081322" Singles="" Doubles="" QuadSingles="DA" QuadDoubles="DA" Year="2016" />
+  <Player GivenName="Shingo" FamilyName="KUNIEDA" CountryCode="JPN" Gender="M" Id="800231597" ITFid="100016393" Singles="AP" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Takuya" FamilyName="MIKI" CountryCode="JPN" Gender="M" Id="800344450" ITFid="100180604" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Mitsuteru" FamilyName="MOROISHI" CountryCode="JPN" Gender="M" Id="800278703" ITFid="100100614" Singles="" Doubles="" QuadSingles="DA" QuadDoubles="DA" Year="2016" />
+  <Player GivenName="Miho" FamilyName="NIJO" CountryCode="JPN" Gender="F" Id="800268130" ITFid="100081228" Singles="DA" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Satoshi" FamilyName="SAIDA" CountryCode="JPN" Gender="M" Id="800183524" ITFid="50000306" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Takashi" FamilyName="SANADA" CountryCode="JPN" Gender="M" Id="800289132" ITFid="100118857" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Ho Won" FamilyName="IM" CountryCode="KOR" Gender="M" Id="800413677" ITFid="100249829" Singles="BIP" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Ha-Gel" FamilyName="LEE" CountryCode="KOR" Gender="M" Id="800212019" ITFid="50001191" Singles="BIP" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Ju-Youn" FamilyName="PARK" CountryCode="KOR" Gender="F" Id="800247488" ITFid="100043031" Singles="DA" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Abu Samah" FamilyName="BORHAN" CountryCode="MAS" Gender="M" Id="800333487" ITFid="100169641" Singles="BIP" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Marjolein" FamilyName="BUIS" CountryCode="NED" Gender="F" Id="800281893" ITFid="100112310" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Diede" FamilyName="DE GROOT" CountryCode="NED" Gender="F" Id="800366561" ITFid="100202713" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Tom" FamilyName="EGBERINK" CountryCode="NED" Gender="M" Id="800273259" ITFid="100087664" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Jiske" FamilyName="GRIFFIOEN" CountryCode="NED" Gender="F" Id="800218548" ITFid="55000432" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Maikel" FamilyName="SCHEFFERS" CountryCode="NED" Gender="M" Id="800205808" ITFid="50001083" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Aniek" FamilyName="VAN KOOT" CountryCode="NED" Gender="F" Id="800250312" ITFid="100046405" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Kamil" FamilyName="FABISIAK" CountryCode="POL" Gender="M" Id="800270253" ITFid="100084075" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Tadeusz" FamilyName="KRUSZELNICKI" CountryCode="POL" Gender="M" Id="800196463" ITFid="50000551" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Leon" FamilyName="ELS" CountryCode="RSA" Gender="M" Id="800311302" ITFid="100147459" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Evans" FamilyName="MARIPA" CountryCode="RSA" Gender="M" Id="800278026" ITFid="100099905" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Kgothatso" FamilyName="MONTJANE" CountryCode="RSA" Gender="F" Id="800278029" ITFid="100099915" Singles="DA" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Lucas" FamilyName="SITHOLE" CountryCode="RSA" Gender="M" Id="800281260" ITFid="100098277" Singles="" Doubles="" QuadSingles="DA" QuadDoubles="" Year="2016" />
+  <Player GivenName="Upali" FamilyName="RAJAKARUNA" CountryCode="SRI" Gender="M" Id="800269803" ITFid="100083130" Singles="BIP" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Stefan" FamilyName="OLSSON" CountryCode="SWE" Gender="M" Id="800211033" ITFid="50001036" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Dan" FamilyName="WALLIN" CountryCode="SWE" Gender="M" Id="800300357" ITFid="100136514" Singles="DWR" Doubles="DWR" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Sakhorn" FamilyName="KHANTHASIT" CountryCode="THA" Gender="F" Id="800207891" ITFid="55000330" Singles="AP" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Suthi" FamilyName="KHLONGRUA" CountryCode="THA" Gender="M" Id="800242239" ITFid="100035951" Singles="BIP" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Chia-Yi" FamilyName="LU" CountryCode="TPE" Gender="F" Id="800216370" ITFid="100029382" Singles="IPC" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Busra" FamilyName="UN" CountryCode="TUR" Gender="F" Id="800319722" ITFid="100155879" Singles="BIP" Doubles="" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Steve" FamilyName="BALDWIN" CountryCode="USA" Gender="M" Id="800211739" ITFid="50001061" Singles="BIP" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Shelby" FamilyName="BARON" CountryCode="USA" Gender="F" Id="800357913" ITFid="100194065" Singles="IPC" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Bryan" FamilyName="BARTEN" CountryCode="USA" Gender="M" Id="800210704" ITFid="50001515" Singles="" Doubles="" QuadSingles="BIP" QuadDoubles="" Year="2016" />
+  <Player GivenName="Emmy" FamilyName="KAISER" CountryCode="USA" Gender="F" Id="800240474" ITFid="100034038" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Dana" FamilyName="MATHEWSON" CountryCode="USA" Gender="F" Id="800290472" ITFid="100112320" Singles="DA" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Jon" FamilyName="RYDBERG" CountryCode="USA" Gender="M" Id="800196071" ITFid="50000539" Singles="BIP" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="Nicholas" FamilyName="TAYLOR" CountryCode="USA" Gender="M" Id="800206593" ITFid="60000007" Singles="" Doubles="" QuadSingles="DA" QuadDoubles="DA" Year="2016" />
+  <Player GivenName="Kaitlyn" FamilyName="VERFUERTH" CountryCode="USA" Gender="F" Id="800222206" ITFid="100012589" Singles="BIP" Doubles="DA" QuadSingles="" QuadDoubles="" Year="2016" />
+  <Player GivenName="David" FamilyName="WAGNER" CountryCode="USA" Gender="M" Id="800228475" ITFid="100011867" Singles="" Doubles="" QuadSingles="DA" QuadDoubles="DA" Year="2016" />
+</Players>

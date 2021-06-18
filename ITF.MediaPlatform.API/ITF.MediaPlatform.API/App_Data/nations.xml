@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Nations>
+  <Nation NameEN="Afghanistan" NameES="Afganistán" CountryCode="AFG" />
+  <Nation NameEN="Netherlands Antilles" NameES="Antillas Holandesas" CountryCode="AHO" />
+  <Nation NameEN="Albania" NameES="Albania" CountryCode="ALB" />
+  <Nation NameEN="Algeria" NameES="Argelia" CountryCode="ALG" />
+  <Nation NameEN="Andorra" NameES="Andorra" CountryCode="AND" />
+  <Nation NameEN="Angola" NameES="Angola" CountryCode="ANG" />
+  <Nation NameEN="Antigua &amp; Barbuda" NameES="Antigua y Barbuda" CountryCode="ANT" />
+  <Nation NameEN="Anguilla" NameES="Anguilla" CountryCode="ANU" />
+  <Nation NameEN="Australasia" NameES="Australasia" CountryCode="ANZ" />
+  <Nation NameEN="Argentina" NameES="Argentina" CountryCode="ARG" />
+  <Nation NameEN="Armenia" NameES="Armenia" CountryCode="ARM" />
+  <Nation NameEN="Aruba" NameES="Aruba" CountryCode="ARU" />
+  <Nation NameEN="American Samoa" NameES="Samoa (Americana)" CountryCode="ASA" />
+  <Nation NameEN="Australia" NameES="Australia" CountryCode="AUS" />
+  <Nation NameEN="Austria" NameES="Austria" CountryCode="AUT" />
+  <Nation NameEN="Azerbaijan" NameES="Azerbaiyán" CountryCode="AZE" />
+  <Nation NameEN="Bahamas" NameES="Bahamas" CountryCode="BAH" />
+  <Nation NameEN="Bangladesh" NameES="Bangladesh" CountryCode="BAN" />
+  <Nation NameEN="Barbados" NameES="Barbados" CountryCode="BAR" />
+  <Nation NameEN="Burundi" NameES="Burundi" CountryCode="BDI" />
+  <Nation NameEN="Belgium" NameES="Bélgica" CountryCode="BEL" />
+  <Nation NameEN="Benin" NameES="Benin" CountryCode="BEN" />
+  <Nation NameEN="Bermuda" NameES="Bermuda" CountryCode="BER" />
+  <Nation NameEN="Bhutan" NameES="Bhután" CountryCode="BHU" />
+  <Nation NameEN="Bosnia/Herzegovina" NameES="Bosnia y Herzegovina" CountryCode="BIH" />
+  <Nation NameEN="Burma" NameES="Burma" CountryCode="BIR" />
+  <Nation NameEN="Belize" NameES="Belice" CountryCode="BIZ" />
+  <Nation NameEN="Belarus" NameES="Bielorrusia" CountryCode="BLR" />
+  <Nation NameEN="Bohemia" NameES="Bohemia" CountryCode="BOH" />
+  <Nation NameEN="Bolivia" NameES="Bolivia" CountryCode="BOL" />
+  <Nation NameEN="Botswana" NameES="Botswana" CountryCode="BOT" />
+  <Nation NameEN="Brazil" NameES="Brasil" CountryCode="BRA" />
+  <Nation NameEN="British Isles" NameES="British Isles" CountryCode="BRI" />
+  <Nation NameEN="Bahrain" NameES="Baréin" CountryCode="BRN" />
+  <Nation NameEN="Brunei" NameES="Brunei" CountryCode="BRU" />
+  <Nation NameEN="Bulgaria" NameES="Bulgaria" CountryCode="BUL" />
+  <Nation NameEN="Burkina Faso" NameES="Burkina Faso" CountryCode="BUR" />
+  <Nation NameEN="Central African Republic" NameES="Rep. Centro Africana" CountryCode="CAF" />
+  <Nation NameEN="New Caledonia" NameES="New Caledonia" CountryCode="CAL" />
+  <Nation NameEN="Cambodia" NameES="Camboya" CountryCode="CAM" />
+  <Nation NameEN="Canada" NameES="Canadá" CountryCode="CAN" />
+  <Nation NameEN="Caribbean/West Indies" NameES="Caribbean/West Indies" CountryCode="CAR" />
+  <Nation NameEN="Cayman Islands" NameES="Islas Cayman" CountryCode="CAY" />
+  <Nation NameEN="Ceylon" NameES="Ceylon" CountryCode="CEY" />
+  <Nation NameEN="Congo" NameES="República Democrática del Congo" CountryCode="CGO" />
+  <Nation NameEN="Chad" NameES="Chad" CountryCode="CHA" />
+  <Nation NameEN="Chile" NameES="Chile" CountryCode="CHI" />
+  <Nation NameEN="China, P.R." NameES="China" CountryCode="CHN" />
+  <Nation NameEN="Commonwealth Ind. States" NameES="Commonwealth Ind. States" CountryCode="CIS" />
+  <Nation NameEN="Cote D'Ivoire" NameES="Costa de Marfil" CountryCode="CIV" />
+  <Nation NameEN="Cameroon" NameES="Camerún" CountryCode="CMR" />
+  <Nation NameEN="Congo, Dem. Rep." NameES="Congo, Dem. Rep." CountryCode="COD" />
+  <Nation NameEN="Cook Islands" NameES="Islas Cook" CountryCode="COK" />
+  <Nation NameEN="Colombia" NameES="Colombia" CountryCode="COL" />
+  <Nation NameEN="Comoros" NameES="Comoros" CountryCode="COM" />
+  <Nation NameEN="Cape Verde" NameES="Cabo Verde" CountryCode="CPV" />
+  <Nation NameEN="Costa Rica" NameES="Costa Rica" CountryCode="CRC" />
+  <Nation NameEN="Croatia" NameES="Croacia" CountryCode="CRO" />
+  <Nation NameEN="Cuba" NameES="Cuba" CountryCode="CUB" />
+  <Nation NameEN="Cyprus" NameES="Chipre" CountryCode="CYP" />
+  <Nation NameEN="Czech Republic" NameES="República Checa" CountryCode="CZE" />
+  <Nation NameEN="Denmark" NameES="Dinamarca" CountryCode="DEN" />
+  <Nation NameEN="Djibouti" NameES="Yibuti" CountryCode="DJI" />
+  <Nation NameEN="Dominica" NameES="Dominica" CountryCode="DMA" />
+  <Nation NameEN="Dominican Republic" NameES="República Dominicana" CountryCode="DOM" />
+  <Nation NameEN="Eastern Caribbean" NameES="Eastern Caribbean" CountryCode="ECA" />
+  <Nation NameEN="Ecuador" NameES="Ecuador" CountryCode="ECU" />
+  <Nation NameEN="Egypt" NameES="Egipto" CountryCode="EGY" />
+  <Nation NameEN="Eritrea" NameES="Eritrea" CountryCode="ERI" />
+  <Nation NameEN="El Salvador" NameES="El Salvador" CountryCode="ESA" />
+  <Nation NameEN="Spain" NameES="España" CountryCode="ESP" />
+  <Nation NameEN="Estonia" NameES="Estonia" CountryCode="EST" />
+  <Nation NameEN="Ethiopia" NameES="Etiopia" CountryCode="ETH" />
+  <Nation NameEN="French Guiana" NameES="French Guiana" CountryCode="FGU" />
+  <Nation NameEN="Fiji" NameES="Fiji" CountryCode="FIJ" />
+  <Nation NameEN="Finland" NameES="Finlandia" CountryCode="FIN" />
+  <Nation NameEN="France" NameES="Francia" CountryCode="FRA" />
+  <Nation NameEN="Germany F.R." NameES="Alemania R.F." CountryCode="FRG" />
+  <Nation NameEN="Micronesia, Fed. States" NameES="Micronesia" CountryCode="FSM" />
+  <Nation NameEN="Gabon" NameES="Gabón" CountryCode="GAB" />
+  <Nation NameEN="Gambia" NameES="Gambia" CountryCode="GAM" />
+  <Nation NameEN="Great Britain" NameES="Gran Bretaña" CountryCode="GBR" />
+  <Nation NameEN="Guinea-Bissau" NameES="Guinea-Bissau" CountryCode="GBS" />
+  <Nation NameEN="German D.R." NameES="Alemania D.R." CountryCode="GDR" />
+  <Nation NameEN="Georgia" NameES="Georgia" CountryCode="GEO" />
+  <Nation NameEN="Equatorial Guinea" NameES="Guinea Ecuatorial" CountryCode="GEQ" />
+  <Nation NameEN="Germany" NameES="Alemania" CountryCode="GER" />
+  <Nation NameEN="Ghana" NameES="Ghana" CountryCode="GHA" />
+  <Nation NameEN="Gibraltar" NameES="Gibraltar" CountryCode="GIB" />
+  <Nation NameEN="Gilbert Islands" NameES="Gilbert Islands" CountryCode="GIL" />
+  <Nation NameEN="Greenland" NameES="Greenland" CountryCode="GLD" />
+  <Nation NameEN="Greece" NameES="Grecia" CountryCode="GRE" />
+  <Nation NameEN="Grenada" NameES="Granada" CountryCode="GRN" />
+  <Nation NameEN="Guatemala" NameES="Guatemala" CountryCode="GUA" />
+  <Nation NameEN="Guadeloupe" NameES="Guadalupe" CountryCode="GUD" />
+  <Nation NameEN="Guinea-Conakry" NameES="Guinea-Conakry" CountryCode="GUI" />
+  <Nation NameEN="Guam" NameES="Guam" CountryCode="GUM" />
+  <Nation NameEN="Guyana" NameES="Guyana" CountryCode="GUY" />
+  <Nation NameEN="Haiti" NameES="Haiti" CountryCode="HAI" />
+  <Nation NameEN="Hawaii" NameES="Hawaii" CountryCode="HAW" />
+  <Nation NameEN="Hong Kong, China" NameES="Hong Kong" CountryCode="HKG" />
+  <Nation NameEN="Honduras" NameES="Honduras" CountryCode="HON" />
+  <Nation NameEN="Hungary" NameES="Hungría" CountryCode="HUN" />
+  <Nation NameEN="Indonesia" NameES="Indonesia" CountryCode="INA" />
+  <Nation NameEN="India" NameES="India" CountryCode="IND" />
+  <Nation NameEN="Iran" NameES="Irán" CountryCode="IRI" />
+  <Nation NameEN="Ireland" NameES="Irlanda" CountryCode="IRL" />
+  <Nation NameEN="Iraq" NameES="Iraq" CountryCode="IRQ" />
+  <Nation NameEN="Iceland" NameES="Islandia" CountryCode="ISL" />
+  <Nation NameEN="Israel" NameES="Israel" CountryCode="ISR" />
+  <Nation NameEN="US Virgin Islands" NameES="Islas Vírgenes (Estados Unidos)" CountryCode="ISV" />
+  <Nation NameEN="Italy" NameES="Italia" CountryCode="ITA" />
+  <Nation NameEN="British Virgin Islands" NameES="British Virgin Islands" CountryCode="IVB" />
+  <Nation NameEN="Jamaica" NameES="Jamaica" CountryCode="JAM" />
+  <Nation NameEN="Jordan" NameES="Jordania" CountryCode="JOR" />
+  <Nation NameEN="Japan" NameES="Japón" CountryCode="JPN" />
+  <Nation NameEN="Kazakhstan" NameES="Kazajistán" CountryCode="KAZ" />
+  <Nation NameEN="Kenya" NameES="Kenia" CountryCode="KEN" />
+  <Nation NameEN="Kyrgyzstan" NameES="Kirguistán" CountryCode="KGZ" />
+  <Nation NameEN="Kiribati" NameES="Kiribati" CountryCode="KIR" />
+  <Nation NameEN="Korea, Rep." NameES="Corea (Sur)" CountryCode="KOR" />
+  <Nation NameEN="Kosovo" NameES="Kosovo" CountryCode="KOS" />
+  <Nation NameEN="Saudi Arabia" NameES="Arabia Saudí" CountryCode="KSA" />
+  <Nation NameEN="Kuwait" NameES="Kuwait" CountryCode="KUW" />
+  <Nation NameEN="Laos" NameES="Laos" CountryCode="LAO" />
+  <Nation NameEN="Latvia" NameES="Letonia" CountryCode="LAT" />
+  <Nation NameEN="Libya" NameES="Libia" CountryCode="LBA" />
+  <Nation NameEN="Liberia" NameES="Liberia" CountryCode="LBR" />
+  <Nation NameEN="St. Lucia" NameES="St Lucia" CountryCode="LCA" />
+  <Nation NameEN="Lesotho" NameES="Lesotho" CountryCode="LES" />
+  <Nation NameEN="Lebanon" NameES="Líbano" CountryCode="LIB" />
+  <Nation NameEN="Liechtenstein" NameES="Liechtenstein" CountryCode="LIE" />
+  <Nation NameEN="Lithuania" NameES="Lituania" CountryCode="LTU" />
+  <Nation NameEN="Luxembourg" NameES="Luxemburgo" CountryCode="LUX" />
+  <Nation NameEN="Macau" NameES="Macao" CountryCode="MAC" />
+  <Nation NameEN="Madagascar" NameES="Madagascar" CountryCode="MAD" />
+  <Nation NameEN="Morocco" NameES="Marruecos" CountryCode="MAR" />
+  <Nation NameEN="Malaysia" NameES="Malasia" CountryCode="MAS" />
+  <Nation NameEN="Malawi" NameES="Malawi" CountryCode="MAW" />
+  <Nation NameEN="Moldova" NameES="Moldavia" CountryCode="MDA" />
+  <Nation NameEN="Maldives" NameES="Maldivas" CountryCode="MDV" />
+  <Nation NameEN="Mexico" NameES="México" CountryCode="MEX" />
+  <Nation NameEN="Mongolia" NameES="Mongolia" CountryCode="MGL" />
+  <Nation NameEN="Marshall Islands" NameES="" CountryCode="MHL" />
+  <Nation NameEN="Macedonia, F.Y.R." NameES="República de Macedonia" CountryCode="MKD" />
+  <Nation NameEN="Mali" NameES="Malí" CountryCode="MLI" />
+  <Nation NameEN="Malta" NameES="Malta" CountryCode="MLT" />
+  <Nation NameEN="Montenegro" NameES="Montenegro" CountryCode="MNE" />
+  <Nation NameEN="Montserrat" NameES="Montserrat" CountryCode="MNT" />
+  <Nation NameEN="Monaco" NameES="Mónaco" CountryCode="MON" />
+  <Nation NameEN="Mozambique" NameES="Mozambique" CountryCode="MOZ" />
+  <Nation NameEN="Mauritius" NameES="Mauricio" CountryCode="MRI" />
+  <Nation NameEN="Martinique" NameES="Martinica" CountryCode="MRN" />
+  <Nation NameEN="Mauritania" NameES="Mauritania" CountryCode="MTN" />
+  <Nation NameEN="Myanmar" NameES="Myanmar (Birmania)" CountryCode="MYA" />
+  <Nation NameEN="Namibia" NameES="Namibia" CountryCode="NAM" />
+  <Nation NameEN="Nicaragua" NameES="Nicaragua" CountryCode="NCA" />
+  <Nation NameEN="Netherlands" NameES="Holanda" CountryCode="NED" />
+  <Nation NameEN="Nepal" NameES="Nepal" CountryCode="NEP" />
+  <Nation NameEN="Norfolk Island" NameES="Isla Norfolk" CountryCode="NFK" />
+  <Nation NameEN="Nigeria" NameES="Nigeria" CountryCode="NGR" />
+  <Nation NameEN="Niger" NameES="Níger" CountryCode="NIG" />
+  <Nation NameEN="Norway" NameES="Noruega" CountryCode="NOR" />
+  <Nation NameEN="Nauru" NameES="Nauru" CountryCode="NRU" />
+  <Nation NameEN="New Zealand" NameES="Nueva Zelanda" CountryCode="NZL" />
+  <Nation NameEN="Oman" NameES="Omán" CountryCode="OMA" />
+  <Nation NameEN="Pakistan" NameES="Pakistán" CountryCode="PAK" />
+  <Nation NameEN="Panama" NameES="Panamá" CountryCode="PAN" />
+  <Nation NameEN="Paraguay" NameES="Paraguay" CountryCode="PAR" />
+  <Nation NameEN="Peru" NameES="Perú" CountryCode="PER" />
+  <Nation NameEN="Philippines" NameES="Filipinas" CountryCode="PHI" />
+  <Nation NameEN="Palestine" NameES="Palestinian Territory, Occupied" CountryCode="PLE" />
+  <Nation NameEN="Palau" NameES="Palau" CountryCode="PLW" />
+  <Nation NameEN="Papua New Guinea" NameES="Papua Nueva Guinea" CountryCode="PNG" />
+  <Nation NameEN="Pacific Oceania" NameES="Pacific Oceania" CountryCode="POC" />
+  <Nation NameEN="Poland" NameES="Polonia" CountryCode="POL" />
+  <Nation NameEN="Portugal" NameES="Portugal" CountryCode="POR" />
+  <Nation NameEN="Korea, D.P.R." NameES="Corea (Norte)" CountryCode="PRK" />
+  <Nation NameEN="Puerto Rico" NameES="Puerto Rico" CountryCode="PUR" />
+  <Nation NameEN="Qatar" NameES="Qatar" CountryCode="QAT" />
+  <Nation NameEN="Reunion" NameES="Reunion" CountryCode="REU" />
+  <Nation NameEN="Rhodesia" NameES="Rhodesia" CountryCode="RHO" />
+  <Nation NameEN="Romania" NameES="Rumania" CountryCode="ROU" />
+  <Nation NameEN="South Africa" NameES="Sudáfrica" CountryCode="RSA" />
+  <Nation NameEN="Russia" NameES="Rusia" CountryCode="RUS" />
+  <Nation NameEN="Rwanda" NameES="Ruanda" CountryCode="RWA" />
+  <Nation NameEN="Western Samoa" NameES="Samoa (Oeste)" CountryCode="SAM" />
+  <Nation NameEN="Serbia &amp; Montenegro" NameES="Serbia y Montenegro" CountryCode="SCG" />
+  <Nation NameEN="Senegal" NameES="Senegal" CountryCode="SEN" />
+  <Nation NameEN="Seychelles" NameES="Seychelles" CountryCode="SEY" />
+  <Nation NameEN="Singapore" NameES="Singapur" CountryCode="SIN" />
+  <Nation NameEN="St. Kitts &amp; Nevis" NameES="St Kitts y Nevis" CountryCode="SKN" />
+  <Nation NameEN="Sierra Leone" NameES="Sierra Leona" CountryCode="SLE" />
+  <Nation NameEN="Slovenia" NameES="Eslovenia" CountryCode="SLO" />
+  <Nation NameEN="San Marino" NameES="San Marino" CountryCode="SMR" />
+  <Nation NameEN="Solomon Islands" NameES="Islas Salomón" CountryCode="SOL" />
+  <Nation NameEN="Somalia" NameES="Somalia" CountryCode="SOM" />
+  <Nation NameEN="Serbia" NameES="Serbia" CountryCode="SRB" />
+  <Nation NameEN="Sri Lanka" NameES="Sri Lanka" CountryCode="SRI" />
+  <Nation NameEN="Sao Tome &amp; Principe" NameES="Santo Tomé y Principe" CountryCode="STP" />
+  <Nation NameEN="Sudan" NameES="Sudán" CountryCode="SUD" />
+  <Nation NameEN="Switzerland" NameES="Suiza" CountryCode="SUI" />
+  <Nation NameEN="Surinam" NameES="Surinam" CountryCode="SUR" />
+  <Nation NameEN="Slovakia" NameES="Eslovaquia" CountryCode="SVK" />
+  <Nation NameEN="Sweden" NameES="Suecia" CountryCode="SWE" />
+  <Nation NameEN="Swaziland" NameES="Swazilandia" CountryCode="SWZ" />
+  <Nation NameEN="Syria" NameES="Siria" CountryCode="SYR" />
+  <Nation NameEN="Tanzania" NameES="Tanzania" CountryCode="TAN" />
+  <Nation NameEN="Czechoslovakia" NameES="Checoslovaquia" CountryCode="TCH" />
+  <Nation NameEN="Tonga" NameES="Tonga" CountryCode="TGA" />
+  <Nation NameEN="Thailand" NameES="Tailandia" CountryCode="THA" />
+  <Nation NameEN="Tajikistan" NameES="Tayikistán" CountryCode="TJK" />
+  <Nation NameEN="Turkmenistan" NameES="Turkmenistán" CountryCode="TKM" />
+  <Nation NameEN="Turks &amp; Caicos Islands" NameES="Turks y Islas Caicos" CountryCode="TKS" />
+  <Nation NameEN="Togo" NameES="Togo" CountryCode="TOG" />
+  <Nation NameEN="Chinese Taipei" NameES="China Taipei" CountryCode="TPE" />
+  <Nation NameEN="Trinidad &amp; Tobago" NameES="Trinidad y Tobago" CountryCode="TTO" />
+  <Nation NameEN="Tunisia" NameES="Túnez" CountryCode="TUN" />
+  <Nation NameEN="Turkey" NameES="Turquía" CountryCode="TUR" />
+  <Nation NameEN="United Arab Emirates" NameES="Emiratos Árabes Unidos" CountryCode="UAE" />
+  <Nation NameEN="Uganda" NameES="Uganda" CountryCode="UGA" />
+  <Nation NameEN="Ukraine" NameES="Ucrania" CountryCode="UKR" />
+  <Nation NameEN="USSR" NameES="USSR" CountryCode="URS" />
+  <Nation NameEN="Uruguay" NameES="Uruguay" CountryCode="URU" />
+  <Nation NameEN="USA" NameES="Estados Unidos" CountryCode="USA" />
+  <Nation NameEN="Uzbekistan" NameES="Uzbekistán" CountryCode="UZB" />
+  <Nation NameEN="Vanuatu" NameES="Vanuatu" CountryCode="VAN" />
+  <Nation NameEN="Venezuela" NameES="Venezuela" CountryCode="VEN" />
+  <Nation NameEN="Vietnam" NameES="Vietnam" CountryCode="VIE" />
+  <Nation NameEN="St. Vincent &amp; the Grenadines" NameES="St Vincent" CountryCode="VIN" />
+  <Nation NameEN="Yemen" NameES="Yemen" CountryCode="YEM" />
+  <Nation NameEN="Yugoslavia" NameES="Yugoslavia" CountryCode="YUG" />
+  <Nation NameEN="Zaire" NameES="Zaire" CountryCode="ZAI" />
+  <Nation NameEN="Zambia" NameES="Zambia" CountryCode="ZAM" />
+  <Nation NameEN="Zimbabwe" NameES="Zimbabwe" CountryCode="ZIM" />
+</Nations>
